@@ -1,0 +1,13 @@
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_obj\Debug\The Four Skillful Brothers.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Jacob\Documents\The Four Skillful Brothers\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
